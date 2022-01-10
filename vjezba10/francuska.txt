@@ -1,0 +1,14 @@
+Montpellier 272084
+Marseille 855393
+Nantes 292718
+Toulouse 458298
+Nice 342295
+Lyon 500715
+Strasbourg 275718
+Pariz 2229621
+Bordeaux 243626
+Saint-Étienne 172023
+Le-Havre 172074
+Rennes 211373
+Reims 182592
+Lille 231491

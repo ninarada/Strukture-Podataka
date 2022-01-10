@@ -1,0 +1,6 @@
+Split 178102
+Osijek 108048
+Zadar 75062
+Rijeka 128624
+Zagreb 790017
+Pula 57460

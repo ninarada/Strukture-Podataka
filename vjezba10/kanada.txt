@@ -1,0 +1,10 @@
+Vancouver 1419277
+Montreal 2921048
+Toronto	3622416
+Kitchener 332235
+Calgary 710795
+Edmonton 708129
+Hamilton 556340
+Québec 588830
+Winnipeg 619031
+Ottawa 751228

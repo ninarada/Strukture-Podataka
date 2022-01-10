@@ -1,0 +1,9 @@
+Genova 605084
+Rim 2553873
+Milano 1299439
+Firenca 368059
+Palermo 675277
+Bologna 374425
+Torino 902255
+Bari 328458
+Napulj 995171
