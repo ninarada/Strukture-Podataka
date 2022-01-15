@@ -1,0 +1,10 @@
+Wollongong 211417
+Brisbane 1145537
+Melbourne 2761995
+Adelaide 957480
+Perth 1018702
+Canberra 276162
+Newcastle 262331
+Geelong 126306
+Sydney 3097956
+Caloundra 126142
