@@ -233,16 +233,13 @@ positionGradovi traziGradove(long int broj, positionGradovi root)
     {
         return NULL;
     }
-    else if (root->stanovnici < broj)
-    {
-        root = traziGradove(broj, root->right);
-    }
-    else if (root->stanovnici > broj)
-    {
+    traziGradove(broj, root->left);
 
-        root->left = traziGradove(broj, root->left);
+    if (root->stanovnici > broj)
+    {
         printf("%s %ld\n", root->grad, root->stanovnici);
-        root->right = traziGradove(broj, root->right);
     }
+
+    traziGradove(broj, root->right);
     return root;
 }
